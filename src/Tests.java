@@ -8,7 +8,7 @@ public class Tests {
     /**
      * Задача 1.4.5
      */
-
+//wpoepreeirirw
 
     /**
      * Задача 1.4.6

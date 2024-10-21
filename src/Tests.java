@@ -8,20 +8,7 @@ public class Tests {
     /**
      * Задача 1.4.5
      */
-    static void task1_4_5() {
-        Name cleopatraName = new Name("Клеопатра");
-        Human cleopatra = new Human(cleopatraName, 152);
 
-        Name pushkinName = new Name("Александр", "Сергеевич", "Пушкин");
-        Human pushkin = new Human(pushkinName, 167);
-
-        Name mayakovskyName = new Name("Владимир", "Маяковский");
-        Human mayakovsky = new Human(mayakovskyName, 189);
-
-        System.out.println(cleopatra);
-        System.out.println(pushkin);
-        System.out.println(mayakovsky);
-    }
 
     /**
      * Задача 1.4.6
